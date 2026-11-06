@@ -45,14 +45,14 @@
                                      ],
                  "window_speed":  500,
                  "music_id":  44,
-                 "music_url":  "./asset/music-wozhi.m4a",
+                 "music_url":  "./asset/bgm.mp3",
                  "music_title":  "无人知晓",
                  "music_artist":  "",
                  "music_list":  [
 
                                 ],
                  "play_mode":  "partial",
-                 "partial_start_time":  "111.3",
+                 "partial_start_time":  "53",
                  "partial_end_time":  "286.34"
              }
 }
